@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <title>Otonari</title>
+  <rect width="1024" height="1024" fill="#EAFBF8"/>
+  <g transform="translate(402.74 548.04) scale(2.6236)">
+    <circle cx="0" cy="24" r="77" fill="none" stroke="#6ADFE6" stroke-width="36"/>
+    <circle cx="72" cy="0" r="77" fill="none" stroke="#19CBB6" stroke-width="36"/>
+    <path d="M52 -55.51A95 95 0 0 0 8.46 -70.62A95 95 0 0 0 -17.3 -32.41A59 59 0 0 1 21.71 -30.86A59 59 0 0 1 52 -55.51ZM89.3 56.41A59 59 0 0 1 50.29 54.86A59 59 0 0 1 20 79.51A95 95 0 0 0 63.54 94.62A95 95 0 0 0 89.3 56.41Z" fill="#0E9C94"/>
+    <line x1="62.33" y1="-110.58" x2="59.89" y2="-138.47" stroke="#0FA597" stroke-width="16" stroke-linecap="round"/>
+    <line x1="109.96" y1="-104.31" x2="119.54" y2="-130.62" stroke="#63DDBE" stroke-width="16" stroke-linecap="round"/>
+    <line x1="150.49" y1="-78.49" x2="170.29" y2="-98.29" stroke="#F6C25C" stroke-width="16" stroke-linecap="round"/>
+  </g>
+</svg>
