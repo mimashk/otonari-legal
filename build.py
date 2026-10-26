@@ -24,6 +24,7 @@ PAGES = [
     ("privacy-policy", "プライバシーポリシー"),
     ("terms-of-service", "利用規約"),
     ("support", "サポート"),
+    ("account-deletion", "アカウントの削除"),
 ]
 
 
@@ -239,6 +240,7 @@ INDEX_BODY = """<h1>Otonari</h1>
 <li><a href="privacy-policy.html">プライバシーポリシー</a></li>
 <li><a href="terms-of-service.html">利用規約</a></li>
 <li><a href="support.html">サポート</a></li>
+<li><a href="account-deletion.html">アカウントの削除</a></li>
 </ul>
 """
 
